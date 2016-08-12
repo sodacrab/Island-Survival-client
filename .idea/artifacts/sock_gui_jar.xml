@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="sock_gui:jar">
+    <output-path>$USER_HOME$/Desktop</output-path>
+    <root id="archive" name="sock_gui_jar.jar">
+      <element id="module-output" name="sock_gui" />
+    </root>
+  </artifact>
+</component>
